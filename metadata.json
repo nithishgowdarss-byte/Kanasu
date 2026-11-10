@@ -1,0 +1,6 @@
+{
+  "name": "KanASu - 3D 120FPS KAS Preparation & Hindsight Memory Engine",
+  "description": "Ultra-smooth 120FPS 3D scroll-driven Karnataka Administrative Service (KPSC KAS) exam prep platform with Hindsight memory reflection, official prelims test simulator, and mental ability solver.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
